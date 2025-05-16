@@ -18,10 +18,10 @@ CREATE TABLE departments (
 
 -- Insert data
 INSERT INTO employees (emp_id, emp_name, dept_id) VALUES
-(1, 'madhu', 101),
-(2, 'mani', 102),
-(3, 'shiva', 103),
-(4, 'abhi', NULL);
+(1, 'Alice', 101),
+(2, 'Bob', 102),
+(3, 'Charlie', 103),
+(4, 'David', NULL);
 
 SELECT * FROM employees;
 
