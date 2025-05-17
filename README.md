@@ -70,4 +70,12 @@ README.md – This file, explaining the project purpose, steps, and usage.
 
 This project helped me gain a deeper understanding of how relational data can be accessed and combined logically using JOIN operations.
 
+output:
 
+![Image](https://github.com/user-attachments/assets/a1a42e47-617e-4bca-91db-4ee4c015cec9)
+
+![Image](https://github.com/user-attachments/assets/dcd9a697-a8a3-487f-b441-87742c9cd9b9)
+
+![Image](https://github.com/user-attachments/assets/4b2e1e92-0151-4a28-9d73-090a0bfd379d)
+
+![Image](https://github.com/user-attachments/assets/324cf702-7957-4802-87ea-43fde3d58b38)
